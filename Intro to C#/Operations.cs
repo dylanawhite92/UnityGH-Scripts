@@ -7,7 +7,7 @@ using UnityEngine;
 public class Tester : MonoBehaviour
 {
     // Start is called before the first frame update
-    async void Start()
+    void Start()
     {
         float a = 5.4f;
         float b = 7.1f;
